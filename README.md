@@ -8,7 +8,7 @@ In order to run [yolo_object_detection.py.ipynb](https://github.com/AleksandrSid
 - yolov3.cfg
 - yolov3.weights
 
-In order to run [YOLO_Real.ipynb]() we need to dowloand this files:
+In order to run [YOLO_Real.ipynb](https://github.com/AleksandrSidorin/YOLO_Computer_Vision/blob/master/YOLO_Real.ipynb) we need to dowloand this files:
 
 - coco.names
 - yolov3-tiny.weights
